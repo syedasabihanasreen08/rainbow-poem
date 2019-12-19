@@ -5,3 +5,6 @@ blue
 purple
 red
 orange
+pink
+violet
+and many other colurs
