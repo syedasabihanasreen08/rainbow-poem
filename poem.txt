@@ -3,6 +3,7 @@ yellow
 green
 blue 
 purple
+recycle!
 red
 unicorn
 orange
@@ -13,3 +14,4 @@ and many more unicorns
 unicorns have baby pony
 pony  pony pony pony pony
 ponypony ponypony [ony 
+earth day
